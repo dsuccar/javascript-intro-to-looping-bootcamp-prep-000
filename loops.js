@@ -35,9 +35,4 @@ do {
 while (incrementVariable() < num) ;
 }
 
-do {
-  console.log("spy, 9 calls")''
-}
-while (incrementVariable() < 10) {
 
-}
