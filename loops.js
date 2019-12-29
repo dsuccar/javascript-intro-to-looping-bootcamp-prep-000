@@ -34,5 +34,3 @@ do {
 }
 while (incrementVariable() < num) ;
 }
-
-
