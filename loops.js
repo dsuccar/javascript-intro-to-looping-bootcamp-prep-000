@@ -33,12 +33,11 @@ do {
   console.log("I run once regardless.");
 }
 while (incrementVariable() < num) ;
-
+}
 
 do {
   console.log("spy, 9 calls")''
 }
 while (incrementVariable() < 10) {
 
-}
 }
